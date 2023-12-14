@@ -21,3 +21,6 @@ Before you begin, ensure you have the necessary environment set up. You may need
 Disclaimer
 
 This repository is for educational purposes only. The scripts and information provided here are meant to increase awareness and understanding of ransomware attacks. Do not use these scripts for any malicious activities or on systems you do not have permission to access.
+
+
+ ![You can see more information by clicking on the link](https://dev.to/shahahaco/do-not-click-its-ransomware-20mb)
